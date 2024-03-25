@@ -1,4 +1,4 @@
-clas profile::base{
+clas profile::base {
   user {'admin':
     ensure => present,
     }
